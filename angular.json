@@ -27,9 +27,16 @@
               "src/assets"
             ],
             "styles": [
+              
+              "../node_module/bootswatch/dist/simplex/bootstrap.css",
+              "../node_module/font-awesome/css/font-awesome.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "../node_module/jquery/dist/jquery.min.js",
+              "../node_module/popper/dist/umd/popper.min.js",
+              "../node_module/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
