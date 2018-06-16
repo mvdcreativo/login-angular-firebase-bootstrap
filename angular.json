@@ -28,14 +28,14 @@
             ],
             "styles": [
               
-              "../node_module/bootswatch/dist/simplex/bootstrap.css",
-              "../node_module/font-awesome/css/font-awesome.css",
+              "node_modules/bootswatch/dist/simplex/bootstrap.css",
+              "node_modules/font-awesome/css/font-awesome.css",
               "src/styles.css"
             ],
             "scripts": [
-              "../node_module/jquery/dist/jquery.min.js",
-              "../node_module/popper/dist/umd/popper.min.js",
-              "../node_module/bootstrap/dist/js/bootstrap.js"
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/popper.js/dist/umd/popper.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
